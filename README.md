@@ -2,8 +2,6 @@
 
 A simple yet stylish Todo application built with PHP as part of a school assignment. The project demonstrates core PHP file handling capabilities without relying on databases, showcasing fundamental file I/O operations.
 
-🚀 [View Live Demo](https://marcuslehm.se/projects/todo/todo.php)
-
 ## Project Context
 
 This application was developed as a school project with specific requirements:
